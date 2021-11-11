@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Use `npm i` Command to install libraries in node_module folder
 
 ## Available Scripts
 
